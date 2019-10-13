@@ -27,7 +27,7 @@ public class ServerFacade {
         System.out.println("[INFO]: " + imageMetadata);
 
         ServerSocket serverSocket = new ServerSocket(Constants.DEFAULT_SERVER_PORT);
-        // we will work a whole day :)
+        // we will work a whole day without coffee break :)
         while (true) {
             try {
                 System.out.println();
