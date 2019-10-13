@@ -1,2 +1,2 @@
-# image-downloader
-multithread client-server
+# Image Downloader
+Multithread client-server application
